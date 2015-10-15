@@ -1,0 +1,64 @@
+Gestor Parque informático
+
+TAU:
+	http://tauproject.sourceforge.net/documentacion.html
+
+GLPI:
+	http://hipertextual.com/archivo/2010/09/glpi-algo-mas-que-un-inventario/
+
+	https://github.com/fusioninventory/glpi
+	
+	http://www.ochobitshacenunbyte.com/2014/10/06/glpi-mucho-mas-que-un-gestor-de-parque-informatico/
+
+	https://gregoireblog.files.wordpress.com/2013/05/how-to-install-glpi-windows-version.pdf
+
+#############################################
+#############################################
+
+	Demo online:
+
+		http://demo.glpi-project.org
+
+		Esta es la demostración en línea de GLPI.
+
+				Por razones de seguridad algunas funcionalidades no están disponibles (administración de usuarios, cambios de contraseñas, copia de respaldo y restauración de la base de datos...), no obstante con ella podrá formarse una buena idea de lo que es GLPI.
+
+				Para ingresar como administrador:
+
+				- Id. de usuario: admin_es 
+				- Contraseña: admin
+
+				Para ingresar como usuario normal (sin asignación de tareas):
+
+				- Id. de usuario: normal_es 
+				- Contraseña: normal
+
+				Para ingresar como usuario para usar únicamente el servicio de mesa de ayuda:
+
+				- Id. de usuario: post-only_es 
+				- Contraseña: postonly
+
+				Si se decide a probar GLPI, si desea puede utilizar el Foro para darnos su opinión
+
+#############################################
+#############################################
+
+Fusion inventory: 
+
+	Parece que este lleva glpi, fusion inventory, fusion directory, y no se si alguna más en global.
+	
+	http://fusioninventory.org/index.html
+
+	Una imagen global de como funciona:
+
+		http://fusioninventory.org/documentation/bigpicture.html
+
+	Proyecto, se ven claramente las partes diferenciadas:
+
+		https://github.com/fusioninventory
+
+OCS NG:
+
+	http://ocsinventory-ng.org/en/demo/
+
+	http://www.ochobitshacenunbyte.com/2013/10/03/instalar-y-configurar-ocs-ng-1-parte/
