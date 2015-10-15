@@ -3,7 +3,7 @@ Organized info about sysadmin stuff
 
 Blogs y webs:
 
-	http://blog.capacityacademy.com/2015/04/23/15-libros-todo-sysadmin-debe-leer/
+http://blog.capacityacademy.com/2015/04/23/15-libros-todo-sysadmin-debe-leer/
 	
 	http://www.logadmin.net
 	
